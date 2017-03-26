@@ -305,11 +305,11 @@ class NLG(object):
     def appreciation(self):
         phrases = [
             "No problem!",
-            "Any time",
+            "Okay lang",
             "You are welcome",
             "You're welcome",
             "Sure, no problem",
-            "Of course",
+            "Basta ikaw",
             "Don't mention it",
             "Don't worry about it"
         ]
